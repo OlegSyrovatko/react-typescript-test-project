@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-typescript-test-project/static/css/main.b9f48e31.css",
+    "main.js": "/react-typescript-test-project/static/js/main.ccdec3e7.js",
+    "index.html": "/react-typescript-test-project/index.html",
+    "main.b9f48e31.css.map": "/react-typescript-test-project/static/css/main.b9f48e31.css.map",
+    "main.ccdec3e7.js.map": "/react-typescript-test-project/static/js/main.ccdec3e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9f48e31.css",
+    "static/js/main.ccdec3e7.js"
+  ]
+}
