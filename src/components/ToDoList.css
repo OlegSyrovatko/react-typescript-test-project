@@ -1,0 +1,32 @@
+ul {
+  margin: 20px auto;
+  max-width: 300px;
+  text-align: center;
+  list-style: none;
+  display: flex;
+  gap: 7px;
+  flex-direction: column;
+}
+
+li {
+    border-radius: 4px;
+  border: #000000 solid 1px;
+  display: flex;
+  gap: 5px;
+  margin-left: auto;
+  padding: 5px;
+}
+button {
+  background-color: black;
+  color: #ccc;
+  transition: color 0.3s ease;
+    transition:  background-color 0.3s ease;
+    border-radius: 4px;
+}
+
+button:hover {
+  background-color: rgb(255, 0, 0);
+  color: rgb(0, 0, 0);
+  text-decoration: underline;
+    box-shadow: 3px 2px 6px 1px rgba(0, 0, 0, 0.53); 
+}
