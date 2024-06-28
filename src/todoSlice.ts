@@ -5,6 +5,7 @@ const initialState: Todo[] = [
   { id: "t1", text: "useState" },
   { id: "t2", text: "use redux" },
   { id: "t3", text: "use redux-persist" },
+  { id: "t4", text: "find the job" },
 ];
 
 const todoSlice = createSlice({
